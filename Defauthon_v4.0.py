@@ -7,11 +7,12 @@ Created on Thu Jun  3 10:18:50 2021.
 version de présentation réunion brainstrorming du 08/07/2021
 """
 
-import tkinter as tk
-from tkinter import messagebox
 # from PIL import ImageTk ,Image
 # from tkinter import ttk
 # import time
+
+import tkinter as tk
+from tkinter import messagebox
 import progressbar
 import smtplib
 import ssl
